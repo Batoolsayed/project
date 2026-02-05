@@ -7,7 +7,7 @@
 ##### data: 2/5/2026
 
 # the game look like this :
-![alt text](../Screenshot_20260205_155354_Sudoku.jpg)
+![alt text](Screenshot_20260205_155354_Sudoku.jpg)
 
 # discretion the game :
 
@@ -55,6 +55,5 @@ for(let i=0; i< 9 ; i++) {
 - 
 
 ## the answer:
-![alt text](../Screenshot_20260205_155915_Sudoku.jpg)
-
+![alt text](Screenshot_20260205_155915_Sudoku.jpg)
 
